@@ -1,4 +1,4 @@
-//Defining variables
+//Defining_variables
 var jsonG
 
 var triangles = [];
